@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Sample App for Deploying Code in Tomcat</h1>
+    <h1>Sample App for Registering</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thanks for registering </h1>
+   <h1> Thanks for registering to our website</h1>
 
   
 </form>
